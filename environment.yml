@@ -1,0 +1,12 @@
+name: tenkf_l96_3
+channels:
+  - defaults
+dependencies:
+  - python=3.8.8
+  - numpy=1.20.1
+  - scipy=1.6.2
+  - setuptools=52.0.0
+  - matplotlib=3.3.4
+  - jupyter
+  - ipykernel
+  - pip

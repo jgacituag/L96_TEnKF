@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Compiled Fortran extension modules
+*.so
+*.o
+*.mod
+*.exe
+
+# Conda / virtual environments
+.env/
+env/
+venv/
+.conda/
+
+# Data directories (large outputs — not tracked in git)
+data/Nature/
+data/LETKF/
+data/output/
+data/summary/
+figures/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Editor / OS
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
