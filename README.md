@@ -1,5 +1,5 @@
 # TEnKF Lorenz-96 Experiments
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19374421.svg)](https://doi.org/10.5281/zenodo.19374421)
 Reproducible code for the Lorenz-96 data assimilation experiments in:
 
 > *Tempered Ensemble Kalman Filter (TEnKF)
